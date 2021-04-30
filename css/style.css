@@ -1,0 +1,117 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.font{
+    font-weight: bold;
+}
+.top-section{
+    background: rgb(247, 236, 230);
+} 
+.nav-img{
+    width: 291.11px;
+    height: 39.27px;
+}
+.half-width{
+    width: 50%;
+   
+} 
+.half-width img{
+    width: 100%;
+}
+h1{
+    font-size: 60px;
+}
+.heading-color{
+    color:#FABE4C;
+}
+.description{
+    margin-top: 70px;
+}
+
+
+/* Button Style */
+.my-btn{
+    background: linear-gradient(#ff7653,#e75124);
+    color: white;
+    font-weight: 400;
+    border-style: none;
+    padding:15px 30px;
+    border-radius: 8px; 
+    text-transform: uppercase;
+}
+.my-btn:hover{
+    background: linear-gradient(#ff3300,#ff6131);
+    color: white;
+}
+
+
+/*  woman and man Section*/
+.card{
+    border:  none;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 5%;
+}
+.card img{
+    border-radius: 20px;}
+
+.panda-card{
+    border-style: none;
+    border-radius: .5em;
+}
+
+span{
+    color: gold;
+    font-weight: 700;
+}
+
+
+/* facilities section */
+.facilities-item img{
+    width: 68px;
+    height: 72px;
+}
+.facilities-item{
+    margin: 100px;
+    padding: 20px;
+    height: 30%;
+    margin: 2% 10%;
+    border-radius: 20px;  
+    font-weight: 300;
+    font-size: 15px;
+}
+.facilities-item-description{
+    font-size: 16px;
+    color: #3E3E3E;
+}
+
+/* Message Submit Section Style */
+.submit{
+    height: 300px;
+    background: #fceae8;
+    border-radius: 0.5em;
+}
+.submit input{
+    display: block;
+    border: 0.5px solid rgb(209, 208, 208);
+    width: 300px;
+    height: 40px;
+    border-radius: 5px;
+}
+.submit h6{
+    color: darkgray;
+}
+
+.btn-hero{
+    margin: 5px 0 0 90px;
+}
+
+
+/* Footer Style */
+footer{
+    margin-top: 16px;
+} 
+
+
+
